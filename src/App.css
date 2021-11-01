@@ -1,0 +1,38 @@
+body {
+  background: linear-gradient(rgb(140, 204, 190) 2%, rgb(211, 93, 113) 50% ,white);
+  /* background-attachment: fixed; */
+  height: 100vh;
+}
+h1 {
+  font-size: 35px;
+  text-align: center;
+}
+form {
+  text-align: center;
+  line-height: 70px;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+}
+form input {
+  padding: 15px 30px;
+  border-radius: 20px;
+  margin-left: 10px;
+  background-color: rgb(187, 228, 228);
+}
+form button {
+  padding: 10px 80px;
+  border-radius: 25px;
+  background-color: rgb(21, 128, 30);
+  border: 2px solid black;
+  font-size: 25px;
+  margin-top: 50px;
+  color: black;
+}
+.input1{
+  margin-left: 60px;
+}
+
+.lastinput{
+  margin-left: -80px;
+}
+
